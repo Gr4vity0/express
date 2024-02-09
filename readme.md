@@ -1,6 +1,6 @@
-# Créer un projet express
+# Créer un projet Express
 
-## 1) Créer un projet node
+## 1) Créer un projet Node
 
 npm init
 
@@ -13,3 +13,12 @@ Structure du projet:
 - validators -> grâce à une librairie (la plus connue: yup) on definit les schemas des objets json qu'on s'attend à recevoir
 - views (si en mode templating) -> vos pages de rendu html avec lib de votre choix (ejs merci)
 - app.js
+
+## 2) Installer Express
+
+</br>
+</hr>
+
+### Bonus:
+#### Extention gitignore par codeZombie
+`en appuyant sur f1, vous permet de créer un gitignore pour le type de techno selectionnéee`
