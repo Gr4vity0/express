@@ -13,11 +13,22 @@ Structure du projet:
 - validators -> grâce à une librairie (la plus connue: yup) on definit les schemas des objets json qu'on s'attend à recevoir
 - views (si en mode templating) -> vos pages de rendu html avec lib de votre choix (ejs merci)
 - app.js
+- .env (PORT=8080)
 
 ## 2) Installer Express
-
+<a href="https://expressjs.com/en/starter/installing.html" target="_blank">-> Doc install express <-</a>
+```
+npm i express 
+```
 </br>
 </hr>
+
+
+
+```
+npm i -D nodemon
+```
+
 
 ### Bonus:
 #### Extention gitignore par codeZombie
